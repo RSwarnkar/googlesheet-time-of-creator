@@ -1,5 +1,5 @@
 # What is this repo about?
-Using this you can create daily email alert for Bramha Muhurt for the xext day from specific location.
+Using this you can create daily email alert for Bramha Muhurt for the next day from specific location.
 
 ## About Brahma-muhurta
 Brahmamuhurta (Sanskrit-ब्रह्म मुहूर्त, lit. 'time of Brahman') is a period (muhurta) that begins one hour and 36 minutes before sunrise, and ends 48 minutes later. It is traditionally the penultimate phase or muhurta of the night, and is considered an auspicious time for all practices of yoga and most appropriate for meditation, worship or any other religious practice. Spiritual activities performed early in the morning are said to have a greater effect than in any other part of the day.
